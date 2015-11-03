@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 body {
- 
+ font-family: 'Orbitron', sans-serif;
 }
 
 a{
@@ -17,7 +17,7 @@ a{
 }
 
 .banner{
-    background-color: #4CAF50;
+    background-color: #000;
    
     
 }
@@ -30,6 +30,9 @@ a{
    margin-top: -60px;
 }
 
+.jumbotron h1{
+font-size: 48px;
+}
 
 .carousel-indicators {
 	bottom: 0;
@@ -44,8 +47,8 @@ a{
 }
 
 .carousel-caption h2 a{
-    font-size: 60px;
-    color:#388E3C;
+    font-size: 48px;
+    color:#008200;
     text-decoration: none;
     
 }
