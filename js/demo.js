@@ -1,6 +1,9 @@
 /* Demo Scripts for Bootstrap Carousel and Animate.css article
 * on SitePoint by Maria Antonietta Perna
 */
+
+alert("hello");
+
 (function( $ ) {
 
 	//Function to animate slider captions 
